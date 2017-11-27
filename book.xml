@@ -1,0 +1,38 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<bookstore>
+<book id = "b001" type = "小说">
+<name> 三国演义 </name>
+<author> 罗贯中 </author>
+<price> 22  </price>
+<color> 红 </color>
+<size>   2000 </size>
+</book>
+
+
+<book id = "b002" type = "小说">
+<name> 西游记 </name>
+<author> 吴承恩 </author>
+<price> 25  </price>
+<color> 白 </color>
+<size>   2600 </size>
+</book>
+
+
+<book id = "b003" type = "小说">
+<name> 红楼梦 </name>
+<author> 曹雪芹 </author>
+<price> 28  </price>
+<color> 黑 </color>
+<size>   3500 </size>
+</book>
+
+<book id = "b004" type = "小说">
+<name> 水浒传 </name>
+<author> 施耐庵 </author>
+<price> 19  </price>
+<color> 蓝 </color>
+<size>   1700  </size>
+</book>
+
+
+</bookstore>
